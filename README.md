@@ -4,4 +4,4 @@ pzTools is a program that allows you to create, edit, and delete mod files with 
 
 In it's current state, it is very primitive and only contains very few features.
 
-(Download)[https://github.com/socialtroglodyte/pzTools/releases]
+[Download](https://github.com/socialtroglodyte/pzTools/releases)
